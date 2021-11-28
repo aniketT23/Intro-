@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://codepen.io/@aniketart-the-encoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@aniketart-the-encoder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aniket23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket23" height="30" width="40" /></a>
+  <a href="https://twitter.com/@anikett02969951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anikett02969951" height="30" width="40" /></a>
 <a href="https://medium.com/@anikettiwari23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anikettiwari23" height="30" width="40" /></a>
 </p>
 
