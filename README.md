@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Tiwari</h1>
 <h3 align="center">A passionate full-stack web developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [xyz@.com](xyz@.com)
+- 👨‍💻 All of my projects are available at [https://aniket-anikett23.vercel.app/](https://aniket-anikett23.vercel.app/)
 
 - 💬 Ask me about **react,nodeJs,expressJs**
 
